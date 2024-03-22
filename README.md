@@ -1,7 +1,5 @@
 # Hello, I'm Elsayed Atif! 👋
 
-![Elsayed Atif](https://github.com/Elsayed-Atif/Elsayed-Atif/raw/main/profile.jpg)
-
 I'm an Assistant Lecturer and researcher in the field of Mechatronics and Robotics Engineering at the Egyptian Russian University (ERU), with a strong passion for developing innovative solutions using robotics and artificial intelligence. My academic and professional journey is dedicated to exploring the realms of soft robotics, control systems, and embedded systems engineering.
 
 ## 🎓 Education
