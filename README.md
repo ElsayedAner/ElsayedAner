@@ -1,4 +1,4 @@
-# Hello, I'm Elsayed Atif! 👋
+# Hello, I'm Elsayed Atif Aner! 👋
 
 I'm an Assistant Lecturer and researcher in the field of Mechatronics and Robotics Engineering at the Egyptian Russian University (ERU), with a strong passion for developing innovative solutions using robotics and artificial intelligence. My academic and professional journey is dedicated to exploring the realms of soft robotics, control systems, and embedded systems engineering.
 
@@ -20,9 +20,9 @@ I'm an Assistant Lecturer and researcher in the field of Mechatronics and Roboti
 - **Design**: PCBs, Mechanical Drawing.
 
 ## 📚 Publications
-1. "Modeling and Trajectory Tracking Control for a Multi-Section Continuum Manipulator." Journal of Intelligent & Robotic Systems.
-2. "Efficient MPPT control for a photovoltaic system using artificial neural networks." ERU Research Journal.
-3. "Performance evaluation of PSO-PID and PSO-FLC for continuum robot’s developed modeling and control." Scientific Reports.
+1. [Modeling and Trajectory Tracking Control for a Multi-Section Continuum Manipulator](https://link.springer.com/article/10.1007/s10846-023-01896-1), Journal of Intelligent & Robotic Systems.
+2. [Efficient MPPT control for a photovoltaic system using artificial neural networks](https://erurj.journals.ekb.eg/article_301364.html), ERU Research Journal.
+3. [Performance evaluation of PSO-PID and PSO-FLC for continuum robot’s developed modeling and control](https://link.springer.com/article/10.1038/s41598-023-50551-0), Scientific Reports.
 
 ## 🌍 Languages
 - Arabic (Native)
