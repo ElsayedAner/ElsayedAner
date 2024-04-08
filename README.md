@@ -1,6 +1,6 @@
 # 🏄‍♂️ Elsayed Aner
 
-**`ssistant lecturer @ERU | Embedded software engineer`**
+**`Assistant lecturer @ERU | Embedded software engineer`**
 
 I'm an Assistant Lecturer and researcher in the field of Mechatronics and Robotics Engineering at the Egyptian Russian University (ERU), with a strong passion for developing innovative solutions using robotics and artificial intelligence. My academic and professional journey is dedicated to exploring the realms of soft robotics, control systems, and embedded systems engineering.
 
@@ -31,10 +31,10 @@ I'm an Assistant Lecturer and researcher in the field of Mechatronics and Roboti
 #
 
 ### 🛠 Skills
-- **Programming**: C, Embedded System Software, RTOS Development and Deployment.
-- **Engineering Software**: MATLAB, Simulink, SimMechanics, AutoCAD, SolidWorks.
-- **Protocols**: UART, SPI, I2C, CAN, LIN.
-- **Design**: PCBs, Mechanical Drawing.
+- **Programming**: `C`, `Embedded System Software`, `RTOS Development and Deployment`.
+- **Engineering Software**: `MATLAB`, `Simulink`, `SimMechanics`, `AutoCAD`, `SolidWorks`.
+- **Protocols**: `UART`, `SPI`, `I2C`, `CAN`, `LIN`.
+- **Design**: `PCBs`, `Mechanical Drawing`.
 
 #
 
